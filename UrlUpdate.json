@@ -1,12 +1,11 @@
-
 {
     "Version": "1.0.1",
     "ReleaseNotes": "atualizaÃ§Ã£o de operadoras",
-    "UrlUpdate": "https://raw.githubusercontent.com/parabaiano/conect/main/UrlUpdate.json",
-    "Sms": "https://raw.githubusercontent.com/parabaiano/conect/main/UrlSms.json",
+    "UrlUpdate": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlUpdate.json",
+    "Sms": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlSms.json",
     "EmailFeedback": "https://t.me/Venom_contas",
     "UrlContato": "https://t.me/Venom_contas",
-    "UrlTermos": "https://raw.githubusercontent.com/parabaiano/conect/main/termos.html",
+    "UrlTermos": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/termos.html",
     "CheckUser": "true",
     "Udp": [
       {
