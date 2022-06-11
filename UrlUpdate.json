@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.1",
+    "Version": "2.0.1",
     "ReleaseNotes": "atualizaÃ§Ã£o de operadoras",
     "UrlUpdate": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlSms.json",
@@ -45,6 +45,17 @@
         "SSLPort": "443",
         "USER": "",
         "PASS": ""
+      },
+      {
+        "Nome" : " Veloster BR 4 " ,
+        "TYPE" : " premium " ,
+        "BANDEIRA" : " br.png " ,
+        "ServerIP" : " venom-x.xyz.tllegrama.venom-x.xyz " ,
+        "CheckUser" : " http://168.138.135.58:5454/checkUser " ,
+        "ServerPort" : " 22 " ,
+        "SSLPort" : " 443 " ,
+        "USUÁRIO" : " " ,
+        "PASSAR" : " "
       },
     ],
     "Networks": [
