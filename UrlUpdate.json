@@ -1,5 +1,5 @@
 {
-    "Version": "3.0.1",
+    "Version": "5.0.1",
     "ReleaseNotes": "atualizaÃ§Ã£o de operadoras",
     "UrlUpdate": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlSms.json",
@@ -47,16 +47,16 @@
         "PASS": ""
       },
       {
-        "Nome" : " Veloster BR 4 " ,
-        "TYPE" : " premium " ,
-        "BANDEIRA" : " br.png " ,
-        "ServerIP" : " venonxx.xyz.veloster.venonxx.xyz " ,
-        "CheckUser" : " http://150.230.86.150:5454/checkUser " ,
-        "ServerPort" : " 22 " ,
-        "SSLPort" : " 443 " ,
-        "USUÁRIO" : " " ,
-        "PASSAR" : " "
-      },
+        "Name": "Venox BR 4",
+        "TYPE": "premium",
+        "FLAG": "br.png",
+        "ServerIP": "venonxx.xyz.veloster.venonxx.xyz",
+        "CheckUser": "http://150.230.86.150:5454/checkUser",
+        "ServerPort": "22",
+        "SSLPort": "443",
+        "USER": "",
+        "PASS": ""
+      }
     ],
     "Networks": [
       {
