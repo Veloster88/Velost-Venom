@@ -1,5 +1,5 @@
 {
-    "Version": "11.0.1",
+    "Version": "11.0.2",
     "ReleaseNotes": "atualizaÃ§Ã£o de operadoras",
     "UrlUpdate": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/Veloster88/Velost-Venom/main/UrlSms.json",
@@ -59,8 +59,7 @@
       }
     ],
     "Networks": [
-      {
-  
+    {
       "Name": "VIVO 1",
       "FLAG": "vivo",
       "Payload": "GET wss://vivoemdia.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
@@ -299,7 +298,6 @@
       "ProxyIP": "104.16.55.91",
       "ProxyPort": "",
       "Info": "Tlsws"
-     
-      }
-     ]
-    }
+     },
+    ]
+   }
